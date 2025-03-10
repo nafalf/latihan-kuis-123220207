@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-//import 'package:pertemuan3/dashboard_page.dart';
 import 'package:latihan_kuis_ptpm/pages/login_page.dart';
 
 void main() {
